@@ -1,0 +1,6 @@
+total 16
+-rwxrwxr-x 1 kartheek kartheek 775 Mar  3 15:40 error.sh
+-rw-rw-r-- 1 kartheek kartheek   0 Mar  3 16:13 temp
+-rwxrwxr-x 1 kartheek kartheek 178 Mar  3 15:19 tester.sh
+-rw-rw-r-- 1 kartheek kartheek 246 Mar  3 15:52 verify.2.0.sh
+-rwxrwxr-x 1 kartheek kartheek 179 Mar  3 15:08 verify.sh
